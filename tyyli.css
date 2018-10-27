@@ -1,0 +1,57 @@
+body{
+	color: #000000;
+	font-size: medium;
+	margin-right:auto;
+	margin-left:auto;
+	margin-bottom:0px;
+	margin-top:0px;
+	width:550px;
+	padding:5px;
+	height:98%;
+}
+
+a{color: #0000ff;
+text-decoration: none}
+
+a:hover{color: #ffffff;
+background-color: #0000ff}
+
+table.menu {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+td.menu {
+	padding: 20px;
+}
+
+.myname {
+	position: absolute;
+	top: 50px;
+        width: 550px;
+	font-size: 36px;
+	text-align: center;
+}
+
+div.menu {
+	position: absolute;
+        top: 80px;
+        width: 550px;
+	text-align: center;
+}
+
+.maintext {
+	position: absolute;
+	top: 170px;
+	padding: 3px;
+	width:550px
+}
+
+ol.l {
+	padding: 0px;
+	padding-left: 30px;
+}
+
+li.l {
+	padding-bottom: 5px;
+}
